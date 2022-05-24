@@ -1,15 +1,9 @@
 ---
-description: Sistemas Informáticos [DAM1] - Tema 6. RA 05.
 coverY: 0
 ---
 
-# Medios de Comunicación Guiados y No Guiados
+# Welcome!
 
-### Equipo X
+## Welcome aboard!
 
-### Autores y autoras:
-
-* Nombre 1
-* Nombre 2
-
-<mark style="background-color:blue;">Fecha: Mayo de 2022.</mark>
+Welcome to the company wiki! Here you'll find everything you need to know about the company.
