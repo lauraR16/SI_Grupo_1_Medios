@@ -15,3 +15,7 @@ En este sistema se utiliza el espacio aéreo como medio físico de transmisión.
 Las estaciones consiste en una antena tipo plato y de circuitos que se interconectan la antena con terminal del usuario. La transmisión es en línea recta (lo que esta a la vista) y por lo tanto se ve afectada por accidentes geográficos , edificios, bosques, mal tiempo, etc. El alcance promedio es de 40 km. en la tierra. Una de las principales ventajas importantes es la capacidad de poder transportar miles de canales de voz a grandes distancias a través de repetidoras, a la vez que permite la transmisión de datos en su forma natural.
 
 ![Una antena parabólica de microondas vía satélite (Raisting, Alemania)](https://upload.wikimedia.org/wikipedia/commons/4/40/Erdfunkstelle\_Raisting\_2.jpg)
+
+{% hint style="info" %}
+Documento elaborado por: Álvaro Abad
+{% endhint %}
