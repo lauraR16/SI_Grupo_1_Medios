@@ -1,13 +1,14 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Introducción](README.md)
 
-## The Company
+## Cables coaxiales
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [¿Que son?](cables-coaxiales/que-son.md)
+* [Función y funcionamiento](cables-coaxiales/funcion-y-funcionamiento.md)
+* [Usos que presentan](cables-coaxiales/usos-que-presentan.md)
 
-## The Formal Stuff
+## Conectores de los cables coaxiales
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Requesting Time Off](conectores-de-los-cables-coaxiales/requesting-time-off.md)
+* [Filing Expenses](conectores-de-los-cables-coaxiales/filing-expenses.md)
