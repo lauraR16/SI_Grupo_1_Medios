@@ -14,4 +14,3 @@
 * [3.1. Bibliografía](3.1.-bibliografia.md)
 * [A. Trabajando con Fibra Óptica](a.-trabajando-con-fibra-optica.md)
 * [Medios de Comunicación Guiados y No Guiados](medios-de-comunicacion-guiados-y-no-guiados.md)
-* [Table of contents](table-of-contents.md)
