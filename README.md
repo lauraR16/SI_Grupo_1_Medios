@@ -1,6 +1,3 @@
-
-# 1.-medios-guiados
-
 ---
 description: Sistemas Informáticos [DAM1] - Tema 6. RA 05.
 cover: .gitbook/assets/fondo.jpg
@@ -19,4 +16,3 @@ coverY: 0
 * Laura Romero
 
 <mark style="background-color:blue;">Fecha: 20 Mayo de 2022.</mark>
-
